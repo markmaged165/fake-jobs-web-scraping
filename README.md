@@ -1,2 +1,1 @@
-"# Fake Jobs Web Scraping Project" 
-"A project demonstrating web scraping of fake job listings using Python and Beautiful Soup." 
+This project creates a web scraping application using Python and the Beautiful Soup library. Its main goal is to find and collect data on fraudulent job advertisements online. The application will use web scraping to browse websites and identify potentially fake job listings. Beautiful Soup, a Python library for parsing HTML and XML, will be used to extract key information from these web pages related to the fake job postings.
